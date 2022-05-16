@@ -20,4 +20,23 @@ With the advancement of deep learning, the need for considerate computation grow
 
 <img src="./MFMIS.png" width="500" length="600">   <img src="./MFMIS_MFIS.png" width="300" length="300">  
 
+
+## Proposed Logic Circuit Design Optimization
+
+
+### Modified SRAM
+
+
+<img src="./Modified_SRAM.png" width="800" length="600">
+
+### Convolution Unit
+
+
+<img src="./Proposed_CIM_Unit.png" width="550" length="800">
+
+## Contact Info
+Author: Chun-Sheng Wu, MS student in Computer Engineering @ Texas A&M University  
+Email: jinsonwu@tamu.edu  
+LinkedIn: https://www.linkedin.com/in/chunshengwu/  
+
 *This is project was implemented under the supervision of Dr. Jiun-In Guo & Dr. Tien-Shen Chao in National Chiao Tung University*
